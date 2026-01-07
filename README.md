@@ -1,13 +1,12 @@
 <!-- Web Dev Banner -->
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
-<br><br><br>
-<!-- Programmer GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<br>
 <!-- Your Info. -->
 <h1 align="center">Hi 👋, I'm Sujal Dhopavkar</h1>
 <h3 align="center">A Passionate Web Developer</h3>
-
+<br><br><br>
+<!-- Programmer GIF -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 Learning **DSA & Full Stack Web Development**.
 
 - 💬 Ask me about **Frontend** like **HTML**, **CSS**, **JS**.
