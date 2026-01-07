@@ -4,12 +4,12 @@
 <!-- Your Info -->
 <h1 align="center">Hi 👋, I'm Sujal Dhopavkar</h1>
 <h3 align="center">A Passionate Web Developer</h3>
-<img align="right" alt="Coding" width="350"
+<img align="right" alt="Coding" width="380"
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <ul>
-  <li>🌱 Learning <b>DSA</b> & <b>Full Stack Web Development</b></li>
-  <li>💬 Ask me about <b>HTML, CSS, JavaScript</b></li>
-  <li>📫 Reach me at <b>sujaldhopavkar123@gmail.com</b></li>
+  <br><li>🌱 Learning <b>DSA</b> & <b>Full Stack Web Development</b></li>
+  <br><li>💬 Ask me about <b>HTML, CSS, JavaScript</b></li>
+  <br><li>📫 Reach me at <b>sujaldhopavkar123@gmail.com</b></li>
 </ul>
 <br><br><br><br><br>
 
