@@ -5,13 +5,14 @@
 <h1 align="center">Hi 👋, I'm Sujal Dhopavkar</h1>
 <h3 align="center">A Passionate Web Developer</h3>
 <br><br><br>
-<!-- Programmer GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 Learning **DSA & Full Stack Web Development**.
 
 - 💬 Ask me about **Frontend** like **HTML**, **CSS**, **JS**.
 
 - 📫 📫 How to reach me **sujaldhopavkar123@gmail.com**.
+
+<!-- Programmer GIF -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br><br><br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dhopavkar_sujal?igsh=MTY0c3YyN2x0d3pi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhopavkarsujal/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujaldhopavkar123@gmail.com)
