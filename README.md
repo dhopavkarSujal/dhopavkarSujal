@@ -1,19 +1,22 @@
 <!-- Web Dev Banner -->
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <br>
-<!-- Your Info. -->
+<!-- Your Info -->
 <h1 align="center">Hi 👋, I'm Sujal Dhopavkar</h1>
 <h3 align="center">A Passionate Web Developer</h3>
-<br><br><br>
-- 🌱 Learning **DSA & Full Stack Web Development**.
-
-- 💬 Ask me about **Frontend** like **HTML**, **CSS**, **JS**.
-
-- 📫 📫 How to reach me **sujaldhopavkar123@gmail.com**.
 <br>
+
 <!-- Programmer GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350"
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🌱 Learning **DSA** & **Full Stack Web Development**
+<br>
+- 💬 Ask me about **Frontend**: **HTML, CSS, JavaScript**
+<br>
+- 📫 How to reach me: **sujaldhopavkar123@gmail.com**
 <br><br><br>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sujal Dhopavkar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dhopavkar_sujal?igsh=MTY0c3YyN2x0d3pi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhopavkarsujal/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujaldhopavkar123@gmail.com) 
