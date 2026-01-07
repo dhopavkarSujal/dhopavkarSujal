@@ -9,9 +9,9 @@
 <img align="right" alt="Coding" width="350"
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br><br>
-- 🌱 Learning **DSA** & **Full Stack Web Development**<br>
-- <br>💬 Ask me about **HTML, CSS, JavaScript**><br>
-- <br>📫 Reach me at **sujaldhopavkar123@gmail.com**<br>
+<br>- 🌱 Learning **DSA** & **Full Stack Web Development**<br>
+<br>- 💬 Ask me about **HTML, CSS, JavaScript**><br>
+<br>- Reach me at **sujaldhopavkar123@gmail.com**<br>
 
 <br><br><br><br><br>
 
