@@ -6,16 +6,16 @@
 <h3 align="center">A Passionate Web Developer</h3>
 <br>
 
-<!-- Programmer GIF -->
-<img align="right" alt="Coding" width="350"
+<img align="right" alt="Coding" width="320"
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<h1>Hi 👋, I'm Sujal Dhopavkar</h1>
+<h3>A Passionate Web Developer</h3>
+
 - 🌱 Learning **DSA** & **Full Stack Web Development**
-<br>
-- 💬 Ask me about **Frontend**: **HTML, CSS, JavaScript**
-<br>
-- 📫 How to reach me: **sujaldhopavkar123@gmail.com**
-<br><br><br>
+- 💬 Ask me about **HTML, CSS, JavaScript**
+- 📫 Reach me at **sujaldhopavkar123@gmail.com**
+
 
 
 ## 🌐 Socials:
