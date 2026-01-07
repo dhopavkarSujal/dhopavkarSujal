@@ -9,9 +9,6 @@
 <img align="right" alt="Coding" width="320"
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h1>Hi 👋, I'm Sujal Dhopavkar</h1>
-<h3>A Passionate Web Developer</h3>
-
 - 🌱 Learning **DSA** & **Full Stack Web Development**
 - 💬 Ask me about **HTML, CSS, JavaScript**
 - 📫 Reach me at **sujaldhopavkar123@gmail.com**
