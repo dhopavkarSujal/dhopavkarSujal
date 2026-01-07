@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h1 align="center">Hi 👋, I'm Sujal Dhopavkar</h1>
-<h3 align="center">Full Stack Web Developer | DSA Learner | Problem Solver</h3>
+<h3 align="center">Web Developer | DSA Learner | Problem Solver</h3>
 
 - 🌱 Learning **DSA & Full Stack Web Development**
 - 💬 Ask me about **JavaScript, React, Web Development**
