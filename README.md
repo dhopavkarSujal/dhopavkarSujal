@@ -1,7 +1,6 @@
 <!-- Web Dev Banner -->
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
-
-
+<br><br><br>
 <!-- Programmer GIF -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -14,7 +13,7 @@
 - 💬 Ask me about **Frontend** like **HTML**, **CSS**, **JS**.
 
 - 📫 📫 How to reach me **sujaldhopavkar123@gmail.com**.
-
+<br><br><br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dhopavkar_sujal?igsh=MTY0c3YyN2x0d3pi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhopavkarsujal/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujaldhopavkar123@gmail.com)
 <!-- Snake Game Repo View -->
