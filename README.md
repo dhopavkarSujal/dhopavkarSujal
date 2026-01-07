@@ -2,19 +2,16 @@
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
 <!-- Your Info. -->
-<h1 align="center">Hi 👋, I'm Sujal C. Dhopavkar</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
-
 <!-- Programmer GIF -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Fullstack Development**
+<h1 align="center">Hi 👋, I'm Sujal Dhopavkar</h1>
+<h3 align="center">Full Stack Web Developer | DSA Learner | Problem Solver</h3>
 
-- 💬 Ask me about **FrontEnd, Cpp**
+- 🌱 Learning **DSA & Full Stack Web Development**
+- 💬 Ask me about **JavaScript, React, Web Development**
+- 🚀 Passionate about building **scalable & responsive applications**
 
-- 📫 How to reach me **sujaldhopavkar**
-
-- ⚡ Fun fact **I am Funny**
 
 <!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
